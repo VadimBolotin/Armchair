@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+// font-family: 'Roboto', sans-serif;
+
+html{/*для правильного прописания размеров*/
+  box-sizing: border-box;
+}
+*, *::before, *::after{
+  box-sizing: inherit;/*inherit наследовать от родителя т.е. от box-sizing: border-box в html*/
+  
+}
+img{
+  max-width: 100%;/*чтобы никогда не превышали размеры контейнеров в котором он наодится */
+  height: auto;/*всегда сжималась по высоте*/
+}
+a{
+  text-decoration: none;
+}
+body{
+  font-family: 'Roboto', sans-serif ;
+  background: #EFEFEF;
+  font-weight: 400;
+  font-size: 14px;
+  color: #333333;
+}
+.wrapper{
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
