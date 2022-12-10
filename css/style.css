@@ -576,7 +576,7 @@ hr {
   height: 1px;
 }
 .banner {
-  background-image: url(/image/fon/bg.jpg);
+  background-image: url(../image/fon/bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
