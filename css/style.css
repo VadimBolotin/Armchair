@@ -786,16 +786,16 @@ hr {
   background-position: center center;
 }
 .social-y {
-  background-image: url(/image/icons/yt.svg);
+  background-image: url(../image/icons/yt.svg);
 }
 .social-vk {
-  background-image: url(/image/icons/vkr.svg);
+  background-image: url(../image/icons/vkr.svg);
 }
 .social-f {
-  background-image: url(/image/icons/fb.svg);
+  background-image: url(../image/icons/fb.svg);
 }
 .social-inst {
-  background-image: url(/image/icons/inst.svg);
+  background-image: url(../image/icons/inst.svg);
 }
 .footer-info {
   display: -webkit-box;
